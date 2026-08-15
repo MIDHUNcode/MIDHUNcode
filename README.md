@@ -234,6 +234,44 @@ A cross-platform shopping application built with **React Native & Expo**.
 
 <td width="50%" valign="top">
 
+<h2>💼 JobApp</h2>
+
+<h3>📱 React Native Job Search Application</h3>
+
+A mobile job-search application built with <b>React Native & Expo</b>, using the <b>JSearch API through RapidAPI</b>.
+
+<br>
+
+<b>🧩 Stack</b>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/RapidAPI-0096FF?style=flat-square&logo=rapidapi&logoColor=white"/>
+</p>
+
+<b>🔥 Highlights</b>
+
+* 🔍 Real-time job search
+* ⭐ Popular jobs
+* 📍 Nearby jobs
+* 📄 Detailed job information
+* 🔗 External job application links
+* 🔄 Pull-to-refresh
+* 🧭 Expo Router navigation
+* 🔐 Environment variable configuration
+* 📦 EAS Android builds
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top" align="center">
+
 <h2>🧩 More Projects</h2>
 
 <h3>🔎 Explore My Repositories</h3>
